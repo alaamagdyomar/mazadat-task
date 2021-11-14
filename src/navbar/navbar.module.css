@@ -1,0 +1,7 @@
+.myNavBar{
+    mix-blend-mode: hard-light;
+}
+.drowpDowns{
+    grid-template-columns: repeat(1,1fr);
+    display: grid;
+}

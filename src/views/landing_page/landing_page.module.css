@@ -1,0 +1,13 @@
+.bannerImg{
+    width: 100%;
+    margin-top: 10px;
+}
+
+@media only screen and (min-width:768px){
+    .bannerImg{
+        float: right;
+        width: 73%;
+        height: 340px;
+    }
+
+}

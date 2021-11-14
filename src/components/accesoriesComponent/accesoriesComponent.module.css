@@ -1,0 +1,33 @@
+.myAccessories{
+    margin-top: 10px;
+    height: 210px;
+    background-color: #F6F7F8;
+}
+.accesoriesTitle{
+    font-weight: bold;
+    padding-left: 10px;
+}
+.accessoriesStyles{
+    padding-top: 10px;
+    font: normal normal 11px/28px Montserrat;
+    color: #22262A;
+    
+}
+.myCategoriesStyles{
+    margin-top: 25px;
+   
+}
+
+@media only screen and (min-width:768px){
+
+    .myAccessories{
+        margin-left: 10px;
+        width: 270px;
+        height: 371px;
+    }
+    .accesoriesTitle{
+        float: left;
+        margin-left: 10px;
+    }
+    
+    }

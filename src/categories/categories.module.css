@@ -1,0 +1,32 @@
+.categoriesItems{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.categoriesName{
+    font-weight: bold;
+    margin-right: 200px;
+    cursor: pointer;
+}
+.numbOfItems{
+    position: absolute;
+    margin-left: 200px;
+}
+.selectedBtn{
+    color: #00B0B8;
+}
+@media only screen and (min-width:768px){
+
+    .categoriesItems{
+        font-size: 16px;
+        margin-top: 40px;
+        justify-content: left;
+    }
+    .categoriesName{
+        cursor: pointer;
+        margin-right: auto;
+        text-align: left;
+        padding-left: 21px;
+    }
+    
+    }
